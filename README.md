@@ -5,7 +5,7 @@
 
 <p>🚀 I’m passionate about <strong>Frontend</strong> and exploring new technologies!</p>
 
-<p><strong>Tecnologías de desarrollo</strong></p>
+<p><strong>👉 Development Technologies</strong></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: 'Poppins', sans-serif;">
 
